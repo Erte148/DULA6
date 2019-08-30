@@ -79,9 +79,7 @@
         "name": "height",
         "type": "float",
         "default": 33.62
-    }]
-},
-{
+    }],   
     "name": "GPIO Motion Sensor",
     "permissions": {
         "gpio": "Access GPIO",
@@ -122,4 +120,8 @@
         "type": "integer",
         "default": 25
     }]
+
+    
+    
 }
+

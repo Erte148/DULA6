@@ -80,4 +80,46 @@
         "type": "float",
         "default": 33.62
     }]
+},
+{
+    "name": "GPIO Motion Sensor",
+    "permissions": {
+        "gpio": "Access GPIO",
+        "network": "Access network"
+    },
+    "options": [{
+        "title": "PIN18",
+        "ui_width": 4,
+        "name": "pin18",
+        "type": "integer",
+        "default": 18
+    },
+     {
+        "title": "PIN17",
+        "ui_width": 4,
+        "name": "pin17",
+        "type": "integer",
+        "default": 17
+    },
+     {
+        "title": "PIN27",
+        "ui_width": 4,
+        "name": "pin27",
+        "type": "integer",
+        "default": 27
+    },
+     {
+        "title": "PIN23",
+        "ui_width": 4,
+        "name": "pin23",
+        "type": "integer",
+        "default": 23
+    },
+     {
+        "title": "PIN25",
+        "ui_width": 4,
+        "name": "pin25",
+        "type": "integer",
+        "default": 25
+    }]
 }

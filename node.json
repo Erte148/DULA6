@@ -17,7 +17,7 @@
         "ui_width": 4,
         "name": "pin",
         "type": "integer",
-        "default": 18
+        "default": 23
          }, {
         "title": "Screens",
         "name": "screens",

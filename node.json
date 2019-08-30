@@ -1,4 +1,4 @@
-    {
+{
     "name": "Screen Configuration",
     "permissions": {
         "gpio": "Access GPIO"
@@ -80,10 +80,4 @@
         "type": "float",
         "default": 33.62
     }]
-
-    
-    
 }
-
-}
-
